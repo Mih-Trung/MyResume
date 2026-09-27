@@ -23,4 +23,4 @@ My main interest is interdisciplinary AI research, specifically looking at how m
 ## Contact
 
 - **Email:** trungminhnguyen.2k6@gmail.com
-- **LinkedIn:** Linkedin.com/in/trung-nguyen-41997a331(https://www.linkedin.com/in/trung-nguyen-41997a331/)
+- **LinkedIn:** [Linkedin.com/in/trung-nguyen-41997a331](https://www.linkedin.com/in/trung-nguyen-41997a331/)
