@@ -11,11 +11,14 @@ My main interest is interdisciplinary AI research, specifically looking at how m
 - Applied AI in Finance & Economics
 - Software Engineering
 
-## Technical Skills
+## Technical & Research Skills
 
-- **Languages:** Python, C++, JavaScript
-- **ML & Data:** PyTorch, Scikit-Learn, Pandas, NumPy
-- **Tools:** Git, Linux, VS Code
+- **Programming:** Python, SQL, Bash / Linux (Ubuntu)
+- **Machine Learning:** Supervised, unsupervised, & reinforcement learning, feature engineering, model evaluation, ML workflows
+- **Deep Learning:** Neural network fundamentals, training pipelines, deep learning architectures
+- **AI, Data & Research:** Data analysis, quantitative modeling, research design, literature review, PRISMA screening, bibliometric analysis, event studies
+- **Automation & Testing:** Workflow automation, Playwright, pytest, Page Object Model (POM)
+- **Tools & Frameworks:** PyTorch, Ray, OR-Tools (CP-SAT), Git/GitHub, LaTeX, openpyxl
 
 ## Contact
 
